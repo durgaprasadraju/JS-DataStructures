@@ -1,0 +1,9 @@
+What is a class?
+----------------
+A class is a blueprint for creating objects with pre-defined properties and methods. 
+
+E.g Define a pattern for Singly Linked List or Doubly Linked List.
+
+We are going to implement data structures as classes!
+
+
